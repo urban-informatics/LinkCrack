@@ -1,0 +1,6 @@
+visdom==0.1.8.9
+torch==1.7.0
+numpy==1.19.2
+tqdm==4.54.0
+torchvision==0.8.1
+Pillow==8.1.0
