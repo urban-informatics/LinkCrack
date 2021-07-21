@@ -1,5 +1,4 @@
-The code is used for the article *Automatic Tunnel Crack Inspection Using an Efficient Mobile Imaging Module and a Lightweight CNN* which is under review for the journal of *IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS*.
-The data will be made available when the article is published.
+The code and data are used for the article *Automatic Tunnel Crack Inspection Using an Efficient Mobile Imaging Module and a Lightweight CNN* which is under review for the journal of *IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS*.
 
 
 ### Installation
